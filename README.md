@@ -1,1 +1,2 @@
-# verilog-fpga-pingpong-game
+# Verilog FPGA Pingpong Game
+
